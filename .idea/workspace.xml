@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/bigou_zuul_server_9527/src/main/resources/application.yml" line="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62514493-dd91-4a79-9af4-ed22742cc704" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generate_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_support_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/GlobelConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/query/BaseQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/BitStatesUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/ClassUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/CodeGenerateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/LetterUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/PageList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/ProductStateConsts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/PropertiesHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/StrUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/encrypt/DES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/encrypt/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/bigou_common_interface/bigou_common_interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/bigou_common_interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/bigou_common_interface/src/main/java/cn/itsource/bigou/client/RedisClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/bigou_common_interface/src/main/java/cn/itsource/bigou/client/RedisClientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/bigou_common_parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/bigou_common_service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/java/cn/itsource/bigou/CommonApplication_8003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/java/cn/itsource/bigou/config/Swagger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/java/cn/itsource/bigou/controller/RedisController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/java/cn/itsource/bigou/util/RedisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_common_parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_mp_generated/bigou_mp_generated.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_mp_generated/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_mp_generated/src/main/java/cn/itsource/GenteratorCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_mp_generated/src/main/resources/gen.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_mp_generated/src/main/resources/templates/controller.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_mp_generated/src/main/resources/templates/query.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/bigou_product_interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_product_parent/bigou_product_parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/bigou_product_service_8002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/ProductServiceApplication_8002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/config/Swagger2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_product_parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/java/cn/itsource/bigou/config/GlobalCorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/bigou_basic_util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/bigou_basic_util.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/AjaxResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/AjaxResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/target/classes/cn/itsource/bigou/AjaxResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_config_server_1299/bigou_config_server_1299.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_config_server_1299/bigou_config_server_1299.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_eureka_server_7001/bigou_eureka_server_7001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_eureka_server_7001/bigou_eureka_server_7001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigou-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_interface/bigou_plat_interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_interface/bigou_plat_interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/bigou_plat_service_8001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/bigou_plat_service_8001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/src/main/java/cn/itsource/bigou/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/src/main/java/cn/itsource/bigou/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/target/classes/cn/itsource/bigou/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/target/classes/cn/itsource/bigou/controller/EmployeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_zuul_server_9527/bigou_zuul_server_9527.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_zuul_server_9527/bigou_zuul_server_9527.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/java/cn/itsource/bigou/swagger/DocumentationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/java/cn/itsource/bigou/swagger/DocumentationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/java/cn/itsource/bigou/swagger/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/java/cn/itsource/bigou/swagger/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/resources/application123.yml" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/resources/bootstrap123.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_zuul_server_9527/target/classes/cn/itsource/bigou/swagger/DocumentationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_zuul_server_9527/target/classes/cn/itsource/bigou/swagger/DocumentationConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bigou_zuul_server_9527/target/classes/cn/itsource/bigou/swagger/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/bigou_zuul_server_9527/target/classes/cn/itsource/bigou/swagger/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_basic_parent/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_config_server_9527/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_eureka_server_7001/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_plat_parent/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_interface/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service/target/" />
+    <ignored path="$PROJECT_DIR$/bigou__zuul_server_1229/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_config_server_1299/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_zuul_server_9527/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_product_parent/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_mp_generated/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_common_parent/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_common_parent/bigou_common_interface/target/" />
+    <ignored path="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ProductTypeServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/service/impl/ProductTypeServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MybatisPlusConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/config/MybatisPlusConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_interface/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="EmployeeController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/src/main/java/cn/itsource/bigou/controller/EmployeeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_interface/src/main/java/cn/itsource/bigou/domain/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+              <folding>
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductServiceApplication_8002.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/ProductServiceApplication_8002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/service/impl/ProductServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="17" column="74" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>G:\idea\bigou-parent\bigou_zuul_server_9527\src\main\java\cn\itsource\bigou</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/resources/application1231.yml" />
+        <option value="$PROJECT_DIR$/bigou_zuul_server_9527/pom.xml" />
+        <option value="$PROJECT_DIR$/上传.patch" />
+        <option value="$PROJECT_DIR$/bigou_mp_generated/pom.xml" />
+        <option value="$PROJECT_DIR$/bigou_mp_generated/src/main/resources/templates/query.java.vm" />
+        <option value="$PROJECT_DIR$/bigou_mp_generated/src/main/resources/templates/controller.java.vm" />
+        <option value="$PROJECT_DIR$/bigou_mp_generated/src/main/java/cn/itsource/GenteratorCode.java" />
+        <option value="$PROJECT_DIR$/bigou_mp_generated/src/main/resources/gen.properties" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/src/main/java/cn/itsource/bigou/query/BaseQuery.java" />
+        <option value="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/AjaxResult.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/config/Swagger2.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/src/main/java/cn/itsource/bigou/query/BrandQuery.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/src/main/java/cn/itsource/bigou/query/ProductQuery.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/src/main/java/cn/itsource/bigou/query/ProductTypeQuery.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/ProductServiceApplication_8002.java" />
+        <option value="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/java/cn/itsource/bigou/config/GlobalCorsConfig.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/java/cn/itsource/bigou/swagger/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/src/main/java/cn/itsource/bigou/domain/Brand.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/service/IBrandService.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/mapper/BrandMapper.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/resources/cn/itsource/bigou/mapper/BrandMapper.xml" />
+        <option value="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/query/BaseQuery.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/controller/ProductTypeController.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/service/IProductTypeService.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/src/main/java/cn/itsource/bigou/domain/ProductType.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/mapper/ProductTypeMapper.java" />
+        <option value="$PROJECT_DIR$/bigou_common_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/bigou_common_parent/bigou_common_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/bigou_common_parent/bigou_common_interface/src/main/java/cn/itsource/bigou/client/RedisClientFactory.java" />
+        <option value="$PROJECT_DIR$/bigou_common_parent/bigou_common_interface/src/main/java/cn/itsource/bigou/client/RedisClient.java" />
+        <option value="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/pom.xml" />
+        <option value="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/java/cn/itsource/bigou/controller/RedisController.java" />
+        <option value="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/java/cn/itsource/bigou/config/Swagger2.java" />
+        <option value="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/java/cn/itsource/bigou/swagger/DocumentationConfig.java" />
+        <option value="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/java/cn/itsource/bigou/CommonApplication_8003.java" />
+        <option value="$PROJECT_DIR$/bigou_zuul_server_9527/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/java/cn/itsource/bigou/util/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/GlobelConstants.java" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/pom.xml" />
+        <option value="$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/service/impl/ProductTypeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_interface/src/main/java/cn/itsource/bigou/domain/Employee.java" />
+        <option value="$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/src/main/java/cn/itsource/bigou/controller/EmployeeController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.2.5" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_plat_service_8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_service_8002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_product_service_8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigou-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigou-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bigou_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\idea\bigou-parent\bigou_product_parent\bigou_product_service_8002\src\main\java\cn\itsource\bigou\config" />
+      <recent name="G:\idea\bigou-parent\bigou_basic_parent\bigou_basic_util\src\main\java\cn\itsource\bigou\util" />
+      <recent name="G:\idea\bigou-parent\bigou_mp_generated\src\main\resources" />
+      <recent name="G:\idea\bigou-parent\bigou_zuul_server_9527\src\main\resources" />
+      <recent name="G:\idea\bigou-parent\bigou_config_server_1299" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itsource.bigou.config" />
+      <recent name="cn.itsource.bigou.query" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.itsource.bigou.query" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.24472117" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZuulApplication_9527">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="CommonApplication_8003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itsource.bigou.CommonApplication_8003" />
+      <module name="bigou_common_service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itsource.bigou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EurekaServerApplication_7001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itsource.bigou.EurekaServerApplication_7001" />
+      <module name="bigou_eureka_server_7001" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itsource.bigou.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="GenteratorCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itsource.GenteratorCode" />
+      <module name="bigou_mp_generated" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itsource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PlatServiceApplication_8001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itsource.bigou.PlatServiceApplication_8001" />
+      <module name="bigou_plat_service_8001" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itsource.bigou.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ProductServiceApplication_8002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itsource.bigou.ProductServiceApplication_8002" />
+      <module name="bigou_product_service_8002" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itsource.bigou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CommonApplication_8003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bigou_common_service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.bigou.CommonApplication_8003" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="ConfigServerApplication_1299" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bigou_config_server_1299" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.bigou.ConfigServerApplication_1299" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="EurekaServerApplication_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bigou_eureka_server_7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.bigou.EurekaServerApplication_7001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="PlatServiceApplication_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bigou_plat_service_8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.bigou.PlatServiceApplication_8001" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="ProductServiceApplication_8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bigou_product_service_8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.bigou.ProductServiceApplication_8002" />
+    </configuration>
+    <configuration name="ZuulApplication_9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bigou_zuul_server_9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.bigou.ZuulApplication_9527" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CommonApplication_8003" />
+      <item itemvalue="Spring Boot.PlatServiceApplication_8001" />
+      <item itemvalue="Spring Boot.ConfigServerApplication_1299" />
+      <item itemvalue="Spring Boot.ZuulApplication_9527" />
+      <item itemvalue="Spring Boot.EurekaServerApplication_7001" />
+      <item itemvalue="Spring Boot.ProductServiceApplication_8002" />
+      <item itemvalue="Application.EurekaServerApplication_7001" />
+      <item itemvalue="Application.PlatServiceApplication_8001" />
+      <item itemvalue="Application.GenteratorCode" />
+      <item itemvalue="Application.ProductServiceApplication_8002" />
+      <item itemvalue="Application.CommonApplication_8003" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CommonApplication_8003" />
+        <item itemvalue="Application.EurekaServerApplication_7001" />
+        <item itemvalue="Application.PlatServiceApplication_8001" />
+        <item itemvalue="Application.ProductServiceApplication_8002" />
+        <item itemvalue="Application.GenteratorCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62514493-dd91-4a79-9af4-ed22742cc704" name="Default" comment="" />
+      <created>1550896510425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550896510425</updated>
+      <workItem from="1550896513603" duration="6446000" />
+      <workItem from="1550911761793" duration="816000" />
+      <workItem from="1550914977053" duration="6135000" />
+      <workItem from="1550970050830" duration="1667000" />
+      <workItem from="1550975370598" duration="2373000" />
+      <workItem from="1550985752571" duration="683000" />
+      <workItem from="1551005930148" duration="7453000" />
+      <workItem from="1551059068752" duration="5007000" />
+      <workItem from="1551156832606" duration="627000" />
+      <workItem from="1551190639911" duration="396000" />
+      <workItem from="1551191057192" duration="343000" />
+      <workItem from="1551191409117" duration="2158000" />
+      <workItem from="1551233539261" duration="5721000" />
+      <workItem from="1551266466632" duration="2344000" />
+      <workItem from="1551350891837" duration="4256000" />
+      <workItem from="1551355805248" duration="12917000" />
+      <workItem from="1551415284269" duration="9340000" />
+      <workItem from="1551444365280" duration="4146000" />
+      <workItem from="1551449483669" duration="2241000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试git">
+      <created>1550988389405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550988389405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加1229的src">
+      <created>1550988580680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550988580680</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加1229的src">
+      <created>1551156873891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551156873891</updated>
+    </task>
+    <task id="LOCAL-00004" summary="上传">
+      <created>1551157000110</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551157000110</updated>
+    </task>
+    <task id="LOCAL-00005" summary="上传">
+      <created>1551157113788</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551157113788</updated>
+    </task>
+    <task id="LOCAL-00006" summary="上传">
+      <created>1551157324882</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551157324883</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="77013000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32827735" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.2771855" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289941" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.3289941" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run Dashboard" order="8" sideWeight="0.5314499" weight="0.4402174" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289941" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2902174" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21695095" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.32998884" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" sideWeight="0.46855012" side_tool="true" weight="0.32662722" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3054348" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31304348" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info id="JRebel" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3289941" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289941" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.3289941" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3289941" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.27731094" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="JRebel Executor" order="9" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3277592" />
+      <window_info anchor="bottom" id="JRebel Console" order="8" sideWeight="0.46855012" side_tool="true" weight="0.32826087" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289941" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.5314499" weight="0.23043478" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试git" />
+    <MESSAGE value="添加1229的src" />
+    <MESSAGE value="上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bigou_mp_generated/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE.jar!/org/springframework/boot/SpringApplication.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.2.0/mybatis-plus-support-2.2.0.jar!/com/baomidou/mybatisplus/service/IService.class" />
+    <entry file="file://$PROJECT_DIR$/bigou_zuul_server_9527/src/main/java/cn/itsource/bigou/swagger/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/util/PageList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/src/main/java/cn/itsource/bigou/query/BrandQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/src/main/java/cn/itsource/bigou/domain/Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="56" column="41" selection-start-line="56" selection-start-column="41" selection-end-line="56" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/mapper/BrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/controller/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="91" column="48" selection-start-line="91" selection-start-column="48" selection-end-line="91" selection-end-column="48" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/query/BaseQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/resources/cn/itsource/bigou/mapper/BrandMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/controller/ProductTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="92" column="37" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/service/IProductTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_interface/src/main/java/cn/itsource/bigou/domain/ProductType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="70" column="36" selection-start-line="70" selection-start-column="36" selection-end-line="70" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-support/2.2.0/mybatis-plus-support-2.2.0.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.class" />
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/mapper/ProductTypeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_common_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_common_parent/bigou_common_interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_common_parent/bigou_common_interface/src/main/java/cn/itsource/bigou/client/RedisClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="76" selection-start-line="8" selection-start-column="76" selection-end-line="8" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/java/cn/itsource/bigou/controller/RedisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/config/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_zuul_server_9527/src/main/java/cn/itsource/bigou/swagger/DocumentationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_eureka_server_7001/src/main/java/cn/itsource/bigou/EurekaServerApplication_7001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_zuul_server_9527/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_zuul_server_9527/src/main/java/cn/itsource/bigou/config/GlobalCorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_zuul_server_9527/src/main/java/cn/itsource/bigou/ZuulApplication_9527.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/java/cn/itsource/bigou/config/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/java/cn/itsource/bigou/util/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/service/IBrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_common_parent/bigou_common_interface/src/main/java/cn/itsource/bigou/client/RedisClientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/java/cn/itsource/bigou/CommonApplication_8003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_common_parent/bigou_common_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1272">
+          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_basic_parent/bigou_basic_util/src/main/java/cn/itsource/bigou/GlobelConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_plat_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_config_server_1299/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_common_parent/bigou_common_service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/src/main/java/cn/itsource/bigou/PlatServiceApplication_8001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/ProductServiceApplication_8002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/service/impl/ProductTypeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/bigou_plat_service_8001.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/config/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_product_parent/bigou_product_service_8002/src/main/java/cn/itsource/bigou/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="17" column="74" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_interface/src/main/java/cn/itsource/bigou/domain/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigou_plat_parent/bigou_plat_service_8001/src/main/java/cn/itsource/bigou/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jquery</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bigou_common_service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
